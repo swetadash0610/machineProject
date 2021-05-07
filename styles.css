@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.graph{
+    margin: 5rem ;
+    height: 100%;
+    
+}
+#chartContainer{
+    width: 60rem ;
+    height: 30rem;
+    padding: 0 auto;
+}
