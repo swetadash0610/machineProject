@@ -121,6 +121,11 @@ header img {
 }
 
 /* //////////////////////////////////////////////////////////////////////////////////////////// */
+.col {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
 
 main {
   /* margin-top: 2rem; */
